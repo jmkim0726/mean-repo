@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jmkim0726/mean-repo#readme",
   "dependencies": {
+    "ejs": "^2.5.5",
     "express": "^4.14.1"
   }
 }
